@@ -1,0 +1,10 @@
+{
+    "utente1": {
+        "username": "provaPython1@hotmail.com",
+        "password": "Passwordpython1"
+    },
+    "utente2": {
+        "username": "python2@hotmail.com",
+        "password": "Passwordpython"
+    }
+}
